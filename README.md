@@ -1,5 +1,5 @@
 # matkey
-Windows User Management Script / Automation of the chntpw pool 
+Windows User Management Script / Automation of the chntpw tool 
 
 Common Issue: If Windows is in hibernation mode, chntpw will not be able to modify Windows users. Booting up the windows partition and restarting it may take Windows out of hibernation and vulnerable.
 
